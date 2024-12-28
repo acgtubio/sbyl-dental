@@ -1,5 +1,5 @@
 
-export type ClientResponse = {
+export type SdClient = {
 	id: string,
 	firstname: string,
 	lastname: string,
